@@ -1,0 +1,11 @@
+F:\C# Programming\PaintApplication\bin\Debug\PaintApplication.exe.config
+F:\C# Programming\PaintApplication\bin\Debug\PaintApplication.exe
+F:\C# Programming\PaintApplication\bin\Debug\PaintApplication.pdb
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.csproj.AssemblyReference.cache
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.csproj.SuggestedBindingRedirects.cache
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.Form1.resources
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.Properties.Resources.resources
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.csproj.GenerateResource.cache
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.csproj.CoreCompileInputs.cache
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.exe
+F:\C# Programming\PaintApplication\obj\Debug\PaintApplication.pdb
